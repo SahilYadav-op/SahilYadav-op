@@ -8,7 +8,7 @@
 <!-- ═══════════════ TYPING SVG ═══════════════ -->
 <p align="center">
   <a href="https://github.com/SahilYadav-op">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=⚛️+I+AM+ATOMIC+—+Breaking+Limits%2C+Building+Intelligence;🧠+AI+%7C+ML+%7C+Deep+Learning+%7C+NLP+%7C+LLMs;📊+Data+Science+%7C+Data+Analysis+%7C+Data+Pipelines;🚀+Transforming+Data+Into+Real-World+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=⚛️+I+AM+ATOMIC+—+Breaking+Limits%2C+Building+Intelligence;🧠+AI+%7C+ML+%7C+Deep+Learning+%7C+NLP+%7C+LLMs;📊+Data+Science+%7C+Data+Analysis+%7C+Data+Pipelines;🚀+Transforming+Data+Into+Real-World+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -205,18 +205,6 @@ fun_fact: "I debug my life like I debug my code — with print statements and pa
 
 <!-- ═══════════════ GRADIENT DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/SahilYadav-op">
-    <img src="https://github-profile-trophy.vercel.app/?username=SahilYadav-op&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&v=1" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<br>
 
 <!-- ═══════════════ GRADIENT DIVIDER ═══════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
