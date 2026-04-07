@@ -33,11 +33,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Sahil Yadav
-tagline: "I AM ATOMIC ⚛️"
-education: B.Tech CSE (Data Science)
-location: India 🇮🇳
-current_focus:
+Name: Sahil Yadav
+Tagline: "I AM ATOMIC ⚛️"
+Education: B.Tech CSE (Data Science)
+Location: India 🇮🇳
+Current_focus:
   - Artificial Intelligence & Machine Learning
   - Data Science & Data Analysis
   - Deep Learning & Neural Networks
@@ -45,8 +45,8 @@ current_focus:
   - Large Language Models (LLMs)
   - Data Pipelines & MLOps
 
-philosophy: "Always learning, always improving — one epoch at a time."
-fun_fact: "I debug my life like I debug my code — with print statements and patience."
+Philosophy: "Always learning, always improving — one epoch at a time."
+Fun_fact: "I debug my life like I debug my code — with print statements and patience."
 ```
 
 <br>
